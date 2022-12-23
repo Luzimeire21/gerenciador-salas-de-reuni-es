@@ -1,1 +1,1 @@
-# gerenciador-salas-de-reuni-es
+# gerenciador-salas-de-reunioes
